@@ -1,0 +1,2 @@
+debian/bin/axfd usr/bin
+src/axfd usr/lib/axfunds
