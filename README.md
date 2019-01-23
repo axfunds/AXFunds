@@ -6,7 +6,7 @@ AXFunds is a PoS-based cryptocurrency.
 
 Security Upgrade
 ===========================
-Due to the Security breach , all community aggress to hardfork at height 821438.
+Due to the Security breach , all community agree to hardfork at height 821438.
 
 
 Development process
