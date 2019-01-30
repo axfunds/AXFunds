@@ -28,9 +28,13 @@ namespace Checkpoints
     static MapCheckpoints mapCheckpoints =
         boost::assign::map_list_of
         ( 0,   uint256("52a542862f874c62249c3ccca99ad6170344686a5f350ffde5b3fd7cf7081fdd") ) // init      
-        ( 821437,   uint256("015d97885736ff9b4a043a5ced989f176bb865d23530784d2e32b50be450eb91") )
-        ( 821438,   uint256("b7c45c4e0a5d196cfc6f8c38cbf04d2b8d625bde5517455e8da6048daf4eb1b6") ) // hardfork
-        ( 821439,   uint256("9b46673b18ee5c837fa04192fa9e868be8401744d849c41b28ed8fc69f5c199e") )
+        ( 821428,   uint256("1f3d89929752da0a16841242553349e0ef9055e222f680dd0384265c81e695ba") ) //  hardfork2
+        ( 821429,   uint256("25c2648c2d3370f420f2026cfa5976bf988f2ef4c82cfa2e81908cac5f32515e") ) //  hardfork2
+
+
+        // ( 821437,   uint256("015d97885736ff9b4a043a5ced989f176bb865d23530784d2e32b50be450eb91") )
+        // ( 821438,   uint256("b7c45c4e0a5d196cfc6f8c38cbf04d2b8d625bde5517455e8da6048daf4eb1b6") ) // hardfork
+        // ( 821439,   uint256("9b46673b18ee5c837fa04192fa9e868be8401744d849c41b28ed8fc69f5c199e") )
 
         // ( 1,   uint256("0679080668f6cd98d76320b2126d691b915fcd9090591d76909c29a3233416b0") ) // first coin issue all        
         // ( 37,  uint256("4e57d4904c861fd88c0684d4711e51848f4e90f4b2c58ffdbc0a2e692e5768c5") ) // first pos coins
